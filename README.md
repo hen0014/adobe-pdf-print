@@ -66,8 +66,10 @@ The script comes in two parts:
 ### Prerequisites
 
 The following python libraries are required.
+
 python
 * N/A
+
 software
 * Adobe reader
 
