@@ -53,6 +53,8 @@ I have to sometimes print a lot of PDFs at once, for example, 20+ documents at a
 
 I am basing this script around Adobe Reader command line options, not because it is a good idea (you can't run Adobe Headless), but because it is a standard app a lot of workplaces have and trust to process their PDFs. there are additional Python libraries you can install with pip, or pdf printer binaries, but you are trusting a third-party bit of code from the internet which you might have to explain to someone. far easier to say it's just an automation script for the default pdf reader app than it's a program using another program or library set no one has heard of.
 
+this is an initial commit to get it revision-controlled, buggy junk which i have not fully tested yet.
+
 
 * [python](https://www.python3.org)
 
